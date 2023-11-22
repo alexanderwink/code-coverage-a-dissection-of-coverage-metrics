@@ -1,0 +1,16 @@
+{
+  "name": "nodecover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "jest",
+    "test-native": "node --test native/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "jest": "^29.6.4"
+  }
+}
